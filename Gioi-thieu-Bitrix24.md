@@ -2,9 +2,12 @@
 
 ## 1. Bitrix 24 là gì?  
 
-**Bitrix24** là một công nghệ quản lý nội bộ tốt, toàn diện, giúp doanh nghiệp xây dựng, phát triển môi trường làm việc liên tục, đồng bộ trên toàn hệ thống.   
+**Bitrix24** là một công nghệ quản lý nội bộ tốt, toàn diện, giúp doanh nghiệp xây dựng, phát triển môi trường làm việc liên tục, đồng bộ trên toàn hệ thống. 
+  
 **Bitrix24** được tích hợp trên 35 công cụ quản lý theo chuẩn quốc tế, giúp doanh nghiệp vận hành hiệu quả nhưng vẫn đảm bảo độ an toàn thông tin và tính bảo mật cao.  
-Tổng công ty **Bitrix** – đơn vị phát triển sản phẩm Bitrix24 là một tập đoàn với bề dày 18 năm phát triển công nghệ web với khoảng 6500 đối tác trên toàn thế giới, với trên 1 triệu khách hàng, trong đó nhiều khách hàng trong top Fortune 500 như : `Xerox`, `Toshiba`, `Epson`, `Samsung`, `Panasonic`, `Volks wagen`, `Huyndai`, `KIA`,…  
+
+Tổng công ty **Bitrix** – đơn vị phát triển sản phẩm Bitrix24 là một tập đoàn với bề dày 18 năm phát triển công nghệ web với khoảng 6500 đối tác trên toàn thế giới, với trên 1 triệu khách hàng, trong đó nhiều khách hàng trong top Fortune 500 như: `Xerox`, `Toshiba`, `Epson`, `Samsung`, `Panasonic`, `Volks wagen`, `Huyndai`, `KIA`,… 
+
 **Bitrix24** được tạp chí Fobers đánh giá là 1 trong 3 công cụ quản lý tốt nhất thế giới năm 2015, xếp hạng nhất trong lĩnh vực quản lý 4.0 (social intranet). Hệ thống **Bitrix24** tiền thân là hệ thống Bitrix Intranet Portal được xây dựng trên nền tảng công công nghệ web Bitrix Site Manager của Nga và được ứng dụng trên 10 năm tại thị trường Nga và Đông Âu.  
 
 Cho đến nay Bitrix24 đã bùng bổ hơn 4 triệu doanh nghiệp trên toàn thế giới ứng dụng. Hiện tại với chiến lược phát triển của mình, Bitrix24 đã trở thành một thương hiệu Mỹ phát triển trên công nghệ Nga được toàn thế giới đón nhận. 
