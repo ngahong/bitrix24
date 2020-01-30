@@ -85,7 +85,7 @@ Mở thư mục `hosts` trong `C:\Windows\System32\drivers\etc` và khai báo IP
 
 Bạn chọn `CONFIRM` để xác nhận và tiếp tục sử dụng.  
 
-- Để thao tác với Bitrix24 Backend, trên url bạn gõ `http://demo/bitrix/admin/` sẽ nhận được giao diện quản lý như sau:  
+- Để thao tác với Bitrix24 Backend, trên url bạn gõ `http://demo/bitrix/admin/` sẽ nhận được giao diện quản lý như bên dưới:  
 
 <img src="https://i.imgur.com/JW2goTz.png">  
 
