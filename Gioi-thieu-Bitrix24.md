@@ -23,3 +23,7 @@ CRM hệ thống quản lý khách hàng với nhiều tính năng nổi trội(
 - Bitrix có gói miễn phí phù hợp với doanh nghiệp nhỏ. Với gói này bạn sẽ bị hạn chế một số chức năng như: mời người ngoài hệ thống, export dữ liệu ra file excel,…Và các gói có tính phí để mở rộng tính năng sử dụng cho người dùng.  
 
 - Đặc biệt, Bitrix còn cung cấp gói SelfHost đầy đủ các tính năng với mã nguồn và tài liệu cho người dùng có thể tùy biến chức năng cho phù hợp với doanh nghiệp mình. Bản SelfHost rất phù hợp với những công ty lớn, tập đoàn.
+
+Tài liệu tham khảo:  
+1. https://www.vitranet24.com/gioi-thieu/gioi-thieu-chung.html
+2. https://giaiphaphotrodn.com/tong-quan-ve-bitrix24/
