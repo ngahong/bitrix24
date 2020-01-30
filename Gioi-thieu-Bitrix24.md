@@ -3,7 +3,7 @@
 ## 1. Bitrix 24 là gì?  
 
 **Bitrix24** là một công nghệ quản lý nội bộ tốt, toàn diện, giúp doanh nghiệp xây dựng, phát triển môi trường làm việc liên tục, đồng bộ trên toàn hệ thống. 
-  
+
 **Bitrix24** được tích hợp trên 35 công cụ quản lý theo chuẩn quốc tế, giúp doanh nghiệp vận hành hiệu quả nhưng vẫn đảm bảo độ an toàn thông tin và tính bảo mật cao.  
 
 Tổng công ty **Bitrix** – đơn vị phát triển sản phẩm Bitrix24 là một tập đoàn với bề dày 18 năm phát triển công nghệ web với khoảng 6500 đối tác trên toàn thế giới, với trên 1 triệu khách hàng, trong đó nhiều khách hàng trong top Fortune 500 như: `Xerox`, `Toshiba`, `Epson`, `Samsung`, `Panasonic`, `Volks wagen`, `Huyndai`, `KIA`,… 
@@ -25,7 +25,7 @@ CRM hệ thống quản lý khách hàng với nhiều tính năng nổi trội(
 ## 3. Ưu điểm của Bitrix với các doanh nghiệp   
 - Bitrix có gói miễn phí phù hợp với doanh nghiệp nhỏ. Với gói này bạn sẽ bị hạn chế một số chức năng như: mời người ngoài hệ thống, export dữ liệu ra file excel,…Và các gói có tính phí để mở rộng tính năng sử dụng cho người dùng.  
 
-- Đặc biệt, Bitrix còn cung cấp gói SelfHost đầy đủ các tính năng với mã nguồn và tài liệu cho người dùng có thể tùy biến chức năng cho phù hợp với doanh nghiệp mình. Bản SelfHost rất phù hợp với những công ty lớn, tập đoàn.
+- Đặc biệt, Bitrix còn cung cấp gói SelfHost đầy đủ các tính năng với mã nguồn và tài liệu cho người dùng có thể tùy biến chức năng cho phù hợp với doanh nghiệp mình. Bản SelfHost rất phù hợp với những công ty lớn hoặc các tập đoàn.
 
 Tài liệu tham khảo:  
 1. https://www.vitranet24.com/gioi-thieu/gioi-thieu-chung.html
