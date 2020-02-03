@@ -7,5 +7,5 @@
     - [Activity Stream](./Activity-stream-in-bitrix24.md)    
     - [Event](./Event-in-bitrix24.md)  
     - [Company structure](./Company-structure.md)    
-    - [CRM](./CRM-in-bitrix24.md)    
+    - [CRM](./CRM.md)    
 [4. Bitrix dành cho administrator](./Bitrix-danh-cho-administrator.md)
