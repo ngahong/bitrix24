@@ -47,6 +47,8 @@ Trong đó:
     `Tag`: gắn thẻ  
 
 - Sau khi hoàn tất phần thông tin task, bạn chọn `Send` thì task đó sẽ hiển thị trên `Activity Stream`.  
+<a name="3"></a>
+
 ## 3. Xem task list  
 
 Để xem danh sách công việc bạn click vào mục `Tasks` trong thanh menu phía bên trái màn hình  
@@ -71,13 +73,15 @@ Biểu đồ `Gantt` cho phép bạn chỉnh sửa lịch trình công việc tr
 
 <img src="https://i.imgur.com/EivU3PS.png">  
 
-## 3. Lọc task  
+<a name="4"></a>
+
+## 4. Lọc task  
 
 Bạn có thể thiết lập các thông số khác nhau để lọc các nhiệm vụ mà mình có quyền truy cập. Chọn **Tasks** > **All** > **Filter** và bấm vào “extended” để thêm nhiều tùy chọn hoặc dùng tùy chọn “add” để thêm những tùy chọn riêng theo ý bạn.  
 
-<a name="4"></a>
+<a name="5"></a>
 
-## 4. Thống kê task
+## 5. Thống kê task
 Để xuất danh sách các task bạn có thể tạo các bản ghi và xuất ra file excel   
 
 <img src="https://i.imgur.com/Lhg1o1i.png">
