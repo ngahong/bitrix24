@@ -1,6 +1,10 @@
 # Activity stream trong Bitrix24  
 
-Tính năng `Activity stream` trong Bitrix24 giúp cho người dùng theo dõi các hoạt động trong công ty/tổ chức một cách rất hiệu quả.  
+`Activity stream` là dòng thông tin tương tác cho phép đăng suy nghĩ, trạng thái cho tất cả các thành viên.  
+`Activity stream` cập nhật các thông tin thay đổi mới nhất. 
+Nó cho phép các thành viên có thể đánh giá, nhận xét hoặc "Like" các ý kiến trên đó.  
+
+
 Lợi ích của `Activity Stream` mang lại:  
 - Không phải thao tác gửi qua mail.
 - Tiết kiệm thời gian thông báo
