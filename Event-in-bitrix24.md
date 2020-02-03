@@ -46,7 +46,7 @@ Tương tự một cửa sổ hiện lên để bạn điền thông tin cho eve
 
 ## 3. Thông báo nhắc nhở  
 
-Event có tính năng gửi thông báo nhắc nhở về sự kiện sắp diễn ra. Ví dụ Nếu bạn muốn tất cả thành viên trong công ty đến dự cuộc họp đúng giờ và đầy đủ thì bạn có thể thiết lập thời gian gửi thông báo nhắc nhở trước 1h. Các thành viên sẽ tự động nhận được thông báo trên hệ thống.  
+Event có tính năng gửi thông báo nhắc nhở về sự kiện sắp diễn ra. Ví dụ Nếu bạn muốn tất cả thành viên trong công ty đến dự cuộc họp đúng giờ và đầy đủ thì bạn có thể thiết lập thời gian gửi thông báo nhắc nhở trước 15 phút. Các thành viên sẽ tự động nhận được thông báo trên hệ thống.  
 
 <img src="https://i.imgur.com/XMeEJza.png">  
 
