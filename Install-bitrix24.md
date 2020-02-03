@@ -58,9 +58,9 @@ nmcli dev
 - Cấu hình IP tĩnh  
 ```
 nmcli c modify "Wired connection 1" connection.id ens33
-nmcli con modify ens7 ipv4.addresses 192.168.152.20/24
-nmcli con modify ens7 ipv4.method manual
-nmcli con modify ens7 connection.autoconnect yes
+nmcli con modify ens33 ipv4.addresses 192.168.152.20/24
+nmcli con modify ens33 ipv4.method manual
+nmcli con modify ens33 connection.autoconnect yes
 ```
 Lưu ý: Bạn set IP nằm trong dải mạng được cấp phát trong VMWare của bạn.
 - Chạy lệnh khởi động lại network  
