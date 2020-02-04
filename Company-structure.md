@@ -16,9 +16,8 @@
 
 Chức năng của `Company structure`:  
 - Thiết lập trực quan, cấu trúc, sơ đồ của tổ chức công ty.  
-- Có thể kéo, thả các nhân viên vào các phòng ban khác nhau
-- Thống kê danh sách các nhân viên theo phòng ban.
-- Xem profile của nhân viên cụ thể.  
+- Cho biết thông tin người quản lý (trưởng phòng) của các phòng ban
+- Cho biết thông tin các nhân viên có trong phòng ban
 
 <a name="2"></a> 
 
