@@ -2,11 +2,15 @@
 
 **CRM** là viết tắt của *Customer Relationship Management* là tính năng của Bitrix24 dùng để quản lý mối quan hệ khách hàng. 
 
-**CRM** là một lớp phần mềm cung cấp cấu trúc và sự gắn kết trong việc quản lý các contact kinh doanh và các contact tiềm năng. 
-Các chức năng chính của CRM:  
+**CRM** là một lớp phần mềm cung cấp cấu trúc và sự gắn kết trong việc quản lý các contact kinh doanh và các contact tiềm năng.   
+Các chức năng chính của CRM trong Bitrix24:  
 - Quản lý thông tin khách hàng
 - Quản lý thông tin company
 - Quản lý sản phẩm, dịch vụ
+- Quản lý giao dịch
+- Lập báo cáo
+
+## Mục lục
 
 [1. Lead](#1)  
 [2. Contact](#2)  
@@ -25,8 +29,14 @@ Khách hàng tiềm năng (Lead) là một đối tượng CRM chứa thông tin
 
 Mục tiêu chính của việc xử lý *Lead* là chuyển đổi nó thành liên hệ (Contact), công ty (Company) hoặc thỏa thuận (Deal). Nó có thể đạt được bằng cách sử dụng các phương tiện liên lạc khác nhau - các cuộc họp, cuộc gọi và email. Tất cả lịch sử liên lạc được lưu trong CRM.  
 
-Hệ thống CRM trong Bitrix24 thiết lập liên kết giữa Lead, Contact, Company, Deal giúp cho bạn có thể truy xuất thông tin dễ dàng hơn.
+Hệ thống CRM trong Bitrix24 thiết lập liên kết giữa Lead, Contact, Company và Deal giúp cho bạn có thể truy xuất thông tin dễ dàng hơn.
 
+Có 2 mode CRM là **Simple CRM** và **Classic CRM** 
+
+<img src="https://i.imgur.com/GdmoRMH.png"> 
+
+- *Simple CRM*: được đề xuất cho các bộ phận bán hàng của các doanh nghiệp nhỏ. Tất cả các e-mail, cuộc gọi, yêu cầu và trò chuyện trong nước ngay lập tức trở thành Deal và/hoặc Contact.  
+- *Classic CRM*: được đề xuất cho các doanh nghiệp vừa và lớn. Đầu tiên, tất cả các yêu cầu được chuyển đến Lead (khách hàng tiềm năng) sau đó đội ngũ kinh doanh của bạn sẽ cố gắng chuyển sang Deal và Contact. 
 
 ## 2. Contact 
 Contact là thông tin liên hệ của khách hàng. Một Company có thể có nhiều Contact. Mỗi Contact có thể có nhiều Deal.   
