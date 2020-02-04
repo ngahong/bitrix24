@@ -24,7 +24,7 @@ Các yếu tố trong CRM
 
 <img src="https://i.imgur.com/pKgupoN.png">  
 
-## 1.Lead
+## 1. Lead
 Khách hàng tiềm năng (Lead) là một đối tượng CRM chứa thông tin (số điện thoại, email, trang web) của một người hoặc công ty có tiềm năng trở thành khách hàng - nghĩa là hoàn thành một giao dịch. Một khách hàng tiềm năng là sự khởi đầu của quá trình; do đó, thông tin có trong khách hàng tiềm năng có thể đến từ danh thiếp được thu thập tại một hội nghị, trang web của công ty hoặc một cuộc gọi điện thoại đến bộ phận bán hàng. 
 
 Mục tiêu chính của việc xử lý *Lead* là chuyển đổi nó thành liên hệ (Contact), công ty (Company) hoặc thỏa thuận (Deal). Nó có thể đạt được bằng cách sử dụng các phương tiện liên lạc khác nhau - các cuộc họp, cuộc gọi và email. Tất cả lịch sử liên lạc được lưu trong CRM.  
