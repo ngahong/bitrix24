@@ -39,7 +39,7 @@ Có 2 mode CRM là **Simple CRM** và **Classic CRM**
 - *Classic CRM*: được đề xuất cho các doanh nghiệp vừa và lớn. Đầu tiên, tất cả các yêu cầu được chuyển đến Lead (khách hàng tiềm năng) sau đó đội ngũ kinh doanh của bạn sẽ cố gắng chuyển sang Deal và Contact. 
 
 ## 2. Contact 
-Contact là thông tin liên hệ của khách hàng. Một Company có thể có nhiều Contact. Mỗi Contact có thể có nhiều Deal.   
+Contact là liên hệ của khách hàng. Một Company có thể có nhiều Contact. Mỗi Contact có thể có nhiều Deal.   
 
 Hệ thống Bitrix24 Có 2 chế độ hiển thị là `List` và `Report` trong mục **Contact** của CRM.  
 
