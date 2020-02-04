@@ -5,10 +5,8 @@
 [2. Quản lý event](#2)   
 [3. Thông báo nhắc nhở](#3)    
 
-`Event` là một tính năng để làm việc với các sự kiện.  
-Một số chức năng chính của `Event`:  
-- Lên lịch trình và quản lý event
-- Gửi thông báo nhắc nhở.  
+`Event` trong Bitrix24 để thiết lập một sự kiện ví dụ như cuộc họp với thông tin cần thiết như: thời gian, địa điểm, người tham dự.  
+Tính năng hữu ích của Event là gửi thông báo nhắc nhở cuộc họp trước một khoảng thời gian đã được định sẵn (ví dụ gửi thông báo cho người tham dự trước cuộc họp 15 phút )
 
 <a name="1"></a>
 
