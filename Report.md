@@ -1,13 +1,13 @@
 # Report trong Bitrix24  
 
-**Report** là tính năng trong Bitrix 24 dùng để thu thập và tổng hợp thông tin, thống kê cho các danh mục, hoạt động của cá nhân hoặc công ty, tổng hợp thành báo cáo theo những tiêu chí cụ thể. 
+**Report** là tính năng trong Bitrix 24 dùng để thu thập và tổng hợp thông tin, quản lý và thống kê cho các danh mục, hoạt động của cá nhân hoặc công ty, tổng hợp thành báo cáo theo những tiêu chí cụ thể. 
 
 [1. CRM Report](#1)  
 [2. Task Report](#2)
 
 ## 1. CRM Reports  
 
-Tính năng Report trong CRM  thống kê cho các danh mục Lead, Deal, Invoice, Product, Activity tương ứng với Khách hàng tiềm năng, Giao dịch, Hóa đơn, Sản phẩm và Hoạt động.  
+Tính năng Report trong CRM dùng để Quản lý và thống kê toàn bộ thông tin về các hoạt động của Lead, Deal, Invoice, Product, Activity tương ứng với dữ liệu về Khách hàng tiềm năng, Giao dịch, Hóa đơn, Sản phẩm và Hoạt động của CRM
 
 ### 1.1 Create report
 
@@ -31,14 +31,14 @@ Kết quả:
 
 <img src="https://i.imgur.com/hQP0OHN.png">
 
-### 2. View report list  
+### 1.2. View report list  
 
 Để xem danh sách các báo cáo, bạn vào mục **CRM** => **Report** hoặc gõ **Report** trong mục Search.  
 Tất cả các Report sẽ được thống kê tại đây.
 
 <img src="https://i.imgur.com/Atf4Oxr.png">
 
-### 3. Các thao tác khác 
+### 1.3. Các thao tác khác 
 
 Click chuột vào biểu tượng setting để thực hiện các thao tác như xuất báo cáo ra file excel, copy, chỉnh sửa.  
 
@@ -48,7 +48,8 @@ Click chuột vào biểu tượng setting để thực hiện các thao tác nh
 
 ## 2. Task Reports  
 
-Ở mục Task có hỗ trợ tính năng Report để user tạo báo cáo cho các nhiệm vụ của mình theo một khoảng thời gian nhất định.  
+Ở mục Task có hỗ trợ tính năng Report để user tổng hợp và quản lý tất cả các nhiệm vụ của mình. 
+
 Bitrix24 hỗ trợ các mẫu report theo tiêu chuẩn (mục *Standart Report*) hoặc ta có thể tự tạo các Report theo ý muốn. Những report do user thực hiện được liệt kê trong mục *Pesonal report*.  
 
 Chức năng chính của Task Report là tạo báo cáo thống kê công việc theo:
