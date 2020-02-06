@@ -89,3 +89,14 @@ Thông báo được gửi đến:
 
 Như vậy ta đã tạo thành công Quy trình Xin nghỉ phép trên Bitrix24.  
 
+## Ví dụ về tạo Business process có kiểu duyệt song song.  
+
+Thiết kế quy trình  
+
+<img src="https://i.imgur.com/RWiaI0y.png"> 
+
+- Test kết quả 
+
+<img src="https://i.imgur.com/cfD2Rfh.png">
+
+<img src="https://i.imgur.com/5QGI1fw.png">  
